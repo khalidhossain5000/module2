@@ -1,0 +1,53 @@
+Module 2 is discussed about Css basic:
+
+Here are some prctice task of this module:
+
+Task------1
+
+i.Create and html document with three paragraphs.
+ii.Apply css styles to each paragraoh using inline,internal and external styles.
+
+Task------2
+i.Design a webpage with a heading,paragraphs and a list.
+
+ii.Apply css styles to change the text color,allignment,font size, and font style fir diffrent elements.
+
+Task------3
+
+i.Create and Html document with various elements including haeading paragraphs and divs.
+
+ii.use diffrent css selector(id class universal tag) to apply unique styles to specific elements
+
+Task------4
+
+i.Desugn a webpage with multiple sections/div
+ii.Apply css styles to se diffrent background colors,images,repeats,positions and sizes for each section
+
+Task------5
+
+i.Create a webpage with various ekements such as divs,paragraoh,and images
+
+ii.apply css styles to add borders with diffrent width colors border-radius and box shadow effects to the elements.
+
+Task------6
+
+i.Build a webpage with diffrent elements e.g:images headong button etc
+ii.Apply css styles to set the display property to none hidden inline block for specific elements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
